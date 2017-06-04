@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: a70f81294681053418048a16e53c4c97
+timeCreated: 1431152959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Normal_1
+    21300002: Divide_1
+    21300004: Advanced_1
+    21300006: HighSpeed_1
+    21300008: Speciality_1
+    21300010: Near_1
+    21300012: Normal_2
+    21300014: Divide_2
+    21300016: Advanced_2
+    21300018: HighSpeed_2
+    21300020: Speciality_2
+    21300022: Near_2
+    21300024: Normal_3
+    21300026: Divide_3
+    21300028: Advanced_3
+    21300030: HighSpeed_3
+    21300032: Speciality_3
+    21300034: Near_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Normal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 105
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divide_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 155
+        width: 171
+        height: 50
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Advanced_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 155
+        width: 121
+        height: 50
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HighSpeed_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 170
+        width: 126
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speciality_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 160
+        width: 161
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Near_1
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 165
+        width: 130
+        height: 50
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Normal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 115
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divide_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 80
+        width: 191
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Advanced_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 85
+        width: 131
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HighSpeed_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 95
+        width: 131
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speciality_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 90
+        width: 161
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Near_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 95
+        width: 140
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Normal_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 140
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Divide_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 191
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Advanced_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 15
+        width: 141
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HighSpeed_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 15
+        width: 141
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Speciality_3
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 5
+        width: 181
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Near_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 25
+        width: 150
+        height: 60
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
