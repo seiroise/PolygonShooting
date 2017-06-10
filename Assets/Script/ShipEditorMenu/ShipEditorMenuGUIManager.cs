@@ -76,6 +76,7 @@ public class ShipEditorMenuGUIManager : SingletonMonoBehaviour<ShipEditorMenuGUI
 	protected void NewButtonClicked() {
 		//非表示
 		HideMenu();
+		shipSelect.shipDataIndicator.Indicate(false);
 		//sclaeをスタックに
 		indicateStack.Push(size);
 		//ゲームパッドのイベント送信先をsizeに
@@ -84,6 +85,7 @@ public class ShipEditorMenuGUIManager : SingletonMonoBehaviour<ShipEditorMenuGUI
 	protected void ExistButtonClicked() {
 		//非表示
 		HideMenu();
+		shipSelect.shipDataIndicator.Indicate(false);
 		//shipsをスタックに
 		indicateStack.Push(ships);
 		//プレイヤーカテゴリの機体リストを取得する
